@@ -1,6 +1,6 @@
-# 🧠 OOP1 – Fall 2025-26
+#  OOP1 – Fall 2025-26
 
-## 🚀 Task List lab
+##  Task List lab
 
 ###  Task 1 — Sum and Average
 ###  Task 2 — 15% Discount in a Certain Amount
@@ -8,7 +8,7 @@
 ###  Task 4 — Swap Two Numbers
 ###  Task_2 - (2-nov-2025)
 
-## 🚀 Task List Project
+##  Task List Project
 
 ### Mortgage Calculator
 
